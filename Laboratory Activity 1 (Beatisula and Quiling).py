@@ -1,0 +1,6 @@
+print("Nathaniel Rosell Beatisula, Matthew Agustes Quiling")
+print("Computer Science")
+print('CS1D')
+print("19 & 19")
+print("July 14, 2004 & August 18, 2004")
+print("Camp Phillips, Manolo Fortich, Bukidnon & Camp JMC, Manolo Fortich, Bukidnon")
